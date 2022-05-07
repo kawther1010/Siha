@@ -1,0 +1,115 @@
+*{
+    font-family: 'Cairo', sans-serif;
+}
+html, body{
+    height: 100%;
+    
+}
+.firstNavbar{
+    color: #fff;
+    background-color: #039be5;
+}
+.navbar__logo{
+    height: 35%;
+    width: 35%;
+}
+.home{
+    margin-right: 4%;
+}
+.profile__picture{
+    height: 4%;
+    width: 4%;
+    border-radius: 100%;
+}
+.share__icons>a{
+    padding: 4px 7px;
+}
+.share__icons>a:hover{
+    background-color: rgb(231, 230, 230);
+    border-radius: 120%;
+}
+.btn__trend{
+    color: #828282;
+    border: 1px solid #828282;
+    padding: 8px 10px;
+    background-color: #fff;
+    margin-left: 8px;
+}
+.btn__trend:hover{
+    color: #fff;
+    background-color: #c3c3c3;
+}
+
+.signin{
+    color: #1ba6f7;
+    font-size: large;
+}
+.share{
+    color: #828282;
+    font-size: small;
+}
+.share:hover{
+    color: #828282;
+}
+.newest__btn{
+    background-color: #fff;
+    color: #5f5f5f;
+    border: 1px solid #1ba6f7;
+    border-radius: 9px;
+    padding: 9px;
+}
+
+
+.likeit__img{
+    height: 55%;
+    width: 100%;
+}
+.profile__picture2{
+    height: 5%;
+    width: 5%;
+    min-height: 30px;
+    min-width: 30px;
+    border-radius: 100%;
+    border: 1px solid #51bfff;
+}
+.input__comment{
+    border: 1px solid #828282;
+    border-radius: 5px;
+    width: 87%;
+}
+
+.post__btn{
+    color: #fff;
+    background-color: #9b9898;
+    border: 1px solid #9b9898;
+    border-radius: 5px;
+    padding: 2.5px 10px;
+}
+.postbtn__txt{
+    font-size: small;
+}
+.policy__txt{
+    color: #828282;
+    font-size: x-small;
+}
+.metype__logo{
+    height: 90%;
+    width: 45%;
+    min-height: 20px;
+    min-width: 90px;
+}
+
+/* footer session */
+footer{
+    color: #828282;
+    background-color: #eaeaea;
+}
+.footer__logo{
+    height: 60%;
+    width: 18%;
+}
+.footer__btn{
+    color: #828282;
+    background-color: #eaeaea;
+    border: none;
+}
